@@ -1,0 +1,11 @@
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\bin\Debug\netcoreapp3.0\Enumeração.exe
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\bin\Debug\netcoreapp3.0\Enumeração.deps.json
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\bin\Debug\netcoreapp3.0\Enumeração.runtimeconfig.json
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\bin\Debug\netcoreapp3.0\Enumeração.runtimeconfig.dev.json
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\bin\Debug\netcoreapp3.0\Enumeração.dll
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\bin\Debug\netcoreapp3.0\Enumeração.pdb
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\obj\Debug\netcoreapp3.0\Enumeração.csprojAssemblyReference.cache
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\obj\Debug\netcoreapp3.0\Enumeração.AssemblyInfoInputs.cache
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\obj\Debug\netcoreapp3.0\Enumeração.AssemblyInfo.cs
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\obj\Debug\netcoreapp3.0\Enumeração.dll
+E:\CURSO C#\Seção 9\Enumeração\Enumeração\Enumeração\obj\Debug\netcoreapp3.0\Enumeração.pdb
